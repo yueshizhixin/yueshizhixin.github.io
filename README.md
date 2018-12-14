@@ -3,7 +3,7 @@
 
 ### 简介
 - 单页面网站
-- VUE + ElementUI + RESTful-API by Golang
+- VUE + ElementUI + RESTful-API
 - MVVM框架
 
 ### 更新
