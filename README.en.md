@@ -7,6 +7,5 @@
 - MVVM Frame
 
 ### Log
-- v0.0.2 static html written over
-- v0.0.1 html-frame and some models
+- v0.1 note
 
